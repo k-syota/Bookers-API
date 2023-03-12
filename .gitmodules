@@ -1,0 +1,3 @@
+[submodule "Bookers-client"]
+	path = Bookers-client
+	url = https://github.com/k-syota/Bookers-client.git
